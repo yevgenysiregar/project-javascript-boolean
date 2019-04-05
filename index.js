@@ -1,6 +1,6 @@
-console.log("true");
-console.log("false");
-console.log("true, false");
+console.log(true);
+console.log(false);
+console.log(true, false);
 
 const toggle = true;
 
